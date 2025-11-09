@@ -1,0 +1,3 @@
+com\mobile\automation\pages\BasePage.class
+com\mobile\automation\config\DriverManager.class
+com\mobile\automation\pages\ChromePage.class

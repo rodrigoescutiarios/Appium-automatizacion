@@ -1,0 +1,4 @@
+com\mobile\automation\hooks\Hooks.class
+com\mobile\automation\stepdefinitions\EjemploSteps.class
+com\mobile\automation\runners\TestRunner.class
+com\mobile\automation\stepdefinitions\BusquedaChromeSteps.class

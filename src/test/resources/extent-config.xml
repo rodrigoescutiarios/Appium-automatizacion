@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report Theme: STANDARD, DARK -->
+        <theme>DARK</theme>
+
+        <!-- Document encoding -->
+        <encoding>UTF-8</encoding>
+
+        <!-- Protocol for script and stylesheets: HTTP, HTTPS -->
+        <protocol>HTTPS</protocol>
+
+        <!-- Title of the document -->
+        <documentTitle>Mobile Automation Test Report</documentTitle>
+
+        <!-- Report name -->
+        <reportName>Mobile Automation Framework - Execution Report</reportName>
+
+        <!-- Timestamp format -->
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+
+        <!-- Custom CSS -->
+        <css>
+            <![CDATA[
+                .report-name {
+                    color: #00b3b3;
+                    font-size: 24px;
+                }
+                .test-name {
+                    font-weight: bold;
+                }
+            ]]>
+        </css>
+
+        <!-- Custom JavaScript -->
+        <js>
+            <![CDATA[
+                console.log('Mobile Automation Framework Report Loaded');
+            ]]>
+        </js>
+    </configuration>
+</extentreports>
