@@ -81,7 +81,7 @@ adb version
 
 ### 8. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/mobile-automation-framework.git
+git clone https://github.com/rodrigoescutiarios/Appium-automatizacion.git
 cd mobile-automation-framework
 ```
 

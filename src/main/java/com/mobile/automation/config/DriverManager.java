@@ -71,5 +71,3 @@ public class DriverManager {
         return properties;
     }
 }
-
-#playwright
